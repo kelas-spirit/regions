@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Regions": {
+      "commandName": "Project",
+      "commandLineArgs": "‪Users\\kelas\\Desktop\\test.txt"
+    }
+  }
+}
